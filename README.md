@@ -3,7 +3,18 @@ A collection game by Ashley Vanaman
 
 This project follows
 
-Project Report: 
+Project Report:
+This being the first project I am able to turn in, I found it hard. I could not get get the image files from the downloaded packages to import. I also was unable to get the files to go into the intended directory folder I had laid out. This project, overall, uoset me very much. That mainly being because I could not even compelete the basic steps of importing the images needed. This assignment definitely had me at my breaking point. 
+[]D-1
+[X]D-2
+[]D-3
+
+[]C-1
+[]C-2
+[]C-3
+[X]C-4
+[]C-5
+[]C-6
 
 Third-Party Assets
 
